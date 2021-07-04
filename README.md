@@ -11,3 +11,13 @@ Unsupervised machine learning is a powerful tool that allows us to cluster or de
 
 ## Visualizations
 
+<h3 align="center"> 3D Scatter with Clusters </h3>
+<p align = "center">
+ <img src="Images/pca_plot.png", width=700>
+</p>
+
+
+<h3 align="center"> 2D Scatter with Clusters </h3>
+<p align = "center">
+ <img src="Images/bokeh_plot.png", width=700>
+</p>
